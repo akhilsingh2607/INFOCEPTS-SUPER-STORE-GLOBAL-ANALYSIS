@@ -47,5 +47,5 @@ This project visualizes Super Store sales and profit data from 2012 to December 
 - **Excel** – Data pre-processing and transformation
 
 - 
-- 📧 Email: your.email@example.com  
+- 📧 Email: akhilsinghk1001@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/akhil-singh-a98818196)  
